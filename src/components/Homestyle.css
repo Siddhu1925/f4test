@@ -1,3 +1,4 @@
+@media screen and (min-width: 480px) {
 .container1{
     display: inline-block;
     width: 20%;
@@ -20,4 +21,5 @@
     border: 1px solid whitesmoke;
     margin: 20px;
     background-color:black;
+}
 }
